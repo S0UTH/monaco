@@ -140,5 +140,6 @@ The following items could have been possible with more time budget.
 - Periodic auto-import of Azure Maps and SQL data from SF City API
 - Consider using NoSQL databases like CosmosDB or use SQL server's JSON features
 - More unit test coverage.
+- More error handling and safety around dynamic objects
 - Deployment using Azure DevOps to streamline release to test and live environment.
 - A simple web SPA to get latitude/longitude from the browser and invoke the API to show nearby food trucks.
